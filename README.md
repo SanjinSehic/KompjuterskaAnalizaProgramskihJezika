@@ -1,1 +1,1 @@
-# kapj-ispit
+# ispit
